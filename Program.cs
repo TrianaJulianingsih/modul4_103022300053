@@ -63,7 +63,7 @@ public class Fanlaptop
                 else if (command == "Turbo Shortcut")
                 {
                     currentState = State.Turbo;
-                    Console.WriteLine("Fan Quiet berubah menjadi Balanced");
+                    Console.WriteLine("Fan Quiet berubah menjadi Turbo");
                 }
                 break;
             case State.Turbo:
