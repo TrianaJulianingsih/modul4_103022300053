@@ -82,7 +82,7 @@ public class Fanlaptop
                 if (command == "Mode Up")
                 {
                     currentState = State.Performance;
-                    Console.WriteLine("“Fan Quiet berubah menjadi Performance");
+                    Console.WriteLine("Fan Quiet berubah menjadi Performance");
                 }
                 else if (command == "Mode Down")
                 {
