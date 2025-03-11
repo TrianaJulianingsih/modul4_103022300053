@@ -87,7 +87,7 @@ public class Fanlaptop
                 else if (command == "Mode Down")
                 {
                     currentState = State.Quiet;
-                    Console.WriteLine("“Fan Quiet berubah menjadi Quiet");
+                    Console.WriteLine("Fan Quiet berubah menjadi Quiet");
                 }
                 break;
             case State.Performance:
